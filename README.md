@@ -1,4 +1,4 @@
-# 📦 Banco de Dados para Oficina Mecânina
+# 📦 Banco de Dados para Oficina Mecânica
 
 Este repositório contém o desenvolvimento de um **Banco de Dados Relacional para o cenário de Oficina Mecânica**, desde a modelagem inicial até a manipulação dos dados com SQL.  
 
